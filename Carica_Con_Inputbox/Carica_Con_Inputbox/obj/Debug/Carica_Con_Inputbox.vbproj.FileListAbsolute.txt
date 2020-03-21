@@ -1,0 +1,12 @@
+G:\Dati_Mobile\010_SSD\Scuola\VB_NET\060_ARRAY\001_Inputbox\Carica_Con_Inputbox\Carica_Con_Inputbox\bin\Debug\Carica_Con_Inputbox.exe.config
+G:\Dati_Mobile\010_SSD\Scuola\VB_NET\060_ARRAY\001_Inputbox\Carica_Con_Inputbox\Carica_Con_Inputbox\bin\Debug\Carica_Con_Inputbox.exe
+G:\Dati_Mobile\010_SSD\Scuola\VB_NET\060_ARRAY\001_Inputbox\Carica_Con_Inputbox\Carica_Con_Inputbox\bin\Debug\Carica_Con_Inputbox.pdb
+G:\Dati_Mobile\010_SSD\Scuola\VB_NET\060_ARRAY\001_Inputbox\Carica_Con_Inputbox\Carica_Con_Inputbox\bin\Debug\Carica_Con_Inputbox.xml
+G:\Dati_Mobile\010_SSD\Scuola\VB_NET\060_ARRAY\001_Inputbox\Carica_Con_Inputbox\Carica_Con_Inputbox\obj\Debug\Carica_Con_Inputbox.vbprojAssemblyReference.cache
+G:\Dati_Mobile\010_SSD\Scuola\VB_NET\060_ARRAY\001_Inputbox\Carica_Con_Inputbox\Carica_Con_Inputbox\obj\Debug\Carica_Con_Inputbox.Form1.resources
+G:\Dati_Mobile\010_SSD\Scuola\VB_NET\060_ARRAY\001_Inputbox\Carica_Con_Inputbox\Carica_Con_Inputbox\obj\Debug\Carica_Con_Inputbox.Resources.resources
+G:\Dati_Mobile\010_SSD\Scuola\VB_NET\060_ARRAY\001_Inputbox\Carica_Con_Inputbox\Carica_Con_Inputbox\obj\Debug\Carica_Con_Inputbox.vbproj.GenerateResource.cache
+G:\Dati_Mobile\010_SSD\Scuola\VB_NET\060_ARRAY\001_Inputbox\Carica_Con_Inputbox\Carica_Con_Inputbox\obj\Debug\Carica_Con_Inputbox.vbproj.CoreCompileInputs.cache
+G:\Dati_Mobile\010_SSD\Scuola\VB_NET\060_ARRAY\001_Inputbox\Carica_Con_Inputbox\Carica_Con_Inputbox\obj\Debug\Carica_Con_Inputbox.exe
+G:\Dati_Mobile\010_SSD\Scuola\VB_NET\060_ARRAY\001_Inputbox\Carica_Con_Inputbox\Carica_Con_Inputbox\obj\Debug\Carica_Con_Inputbox.xml
+G:\Dati_Mobile\010_SSD\Scuola\VB_NET\060_ARRAY\001_Inputbox\Carica_Con_Inputbox\Carica_Con_Inputbox\obj\Debug\Carica_Con_Inputbox.pdb
